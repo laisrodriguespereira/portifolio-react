@@ -1,9 +1,10 @@
-fuction home() {
-  return(
+function Projetos() {
+  return (
     <div>
-    <h1>Meu Portfólio</h1>
-    <p>Bem vindo ao meu site!</p>
+      <h1>Projetos</h1>
+      <p>Aqui estão alguns dos meus projetos.</p>
     </div>
-    );
+  );
 }
-export default home;
+
+export default Projetos;
