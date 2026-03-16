@@ -1,9 +1,9 @@
-function Header() {
+function Footer() {
   return (
-    <header>
-      <h1>Portfólio</h1>
-    </header>
+    <footer>
+      <p>© 2025 - Meu Portfólio</p>
+    </footer>
   );
 }
 
-export default Header;
+export default Footer;
