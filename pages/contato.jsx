@@ -1,9 +1,10 @@
-fuction home() {
-  return(
+function Contato() {
+  return (
     <div>
-    <h1>Meu Portfólio</h1>
-    <p>Bem vindo ao meu site!</p>
+      <h1>Contato</h1>
+      <p>Email: exemplo: laisrodriguesp01@email.com</p>
     </div>
-    );
+  );
 }
-export default home;
+
+export default Contato;
