@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div>
-      <h1>Meu Portfólio</h1>
+      <h1>Meu Portfólio</h1> 
 
       <p>Bem-vindo ao meu site profissional.</p>
 
