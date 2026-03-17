@@ -1,9 +1,10 @@
-function Header() {
+function ProjectCard() {
   return (
-    <header>
-      <h1>Portfólio</h1>
-    </header>
+    <div>
+      <h3>Projeto</h3>
+      <p>Descrição do projeto</p>
+    </div>
   );
 }
 
-export default Header;
+export default ProjectCard
